@@ -2,7 +2,7 @@
   "name": "bookstore",
   "version": "0.1.0",
   "private": true,
-  "homepage": "miguebeto.github.io/BookStore.io",
+  "homepage": "http://miguebeto.github.io/bookstore.io",
   "dependencies": {
     "axios": "^0.24.0",
     "gh-pages": "^3.2.3",
