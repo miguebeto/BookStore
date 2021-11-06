@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/miguebeto.github.io/BookStore.io/static/css/main.c29b95c3.chunk.css",
+    "main.js": "/miguebeto.github.io/BookStore.io/static/js/main.3e53253e.chunk.js",
+    "main.js.map": "/miguebeto.github.io/BookStore.io/static/js/main.3e53253e.chunk.js.map",
+    "runtime-main.js": "/miguebeto.github.io/BookStore.io/static/js/runtime-main.66d04329.js",
+    "runtime-main.js.map": "/miguebeto.github.io/BookStore.io/static/js/runtime-main.66d04329.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/miguebeto.github.io/BookStore.io/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.cbc893da.chunk.js": "/miguebeto.github.io/BookStore.io/static/js/2.cbc893da.chunk.js",
+    "static/js/2.cbc893da.chunk.js.map": "/miguebeto.github.io/BookStore.io/static/js/2.cbc893da.chunk.js.map",
+    "index.html": "/miguebeto.github.io/BookStore.io/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/miguebeto.github.io/BookStore.io/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.c29b95c3.chunk.css.map": "/miguebeto.github.io/BookStore.io/static/css/main.c29b95c3.chunk.css.map",
+    "static/js/2.cbc893da.chunk.js.LICENSE.txt": "/miguebeto.github.io/BookStore.io/static/js/2.cbc893da.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.66d04329.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.cbc893da.chunk.js",
+    "static/css/main.c29b95c3.chunk.css",
+    "static/js/main.3e53253e.chunk.js"
+  ]
+}
