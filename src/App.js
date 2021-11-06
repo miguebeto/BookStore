@@ -34,7 +34,6 @@ const App = () => {
           toast.error(`max result must be between 1 and ${res.data.totalItems}` );
         }else{
           if(res.data.items.length > 0){
-            console.log(res.data.items);
             setCards(res.data.items);
             setLoading(false);
           }
@@ -49,7 +48,6 @@ const App = () => {
   }
 
   const handleCards = () => {
-    console.log(cards)
     const items = cards.map((item, i) => {
       let thumbnail = '';
       if(item.volumeInfo.imageLinks.thumbnail){
